@@ -5,7 +5,7 @@ import 'package:make_it_easy/models/medication.dart';
 
 
 /**
- * @author Afli Ramzi && Med Khalil  Bahri
+ * @author Afli Ramzi 
  * @noteapi   c'est  la page  de  display  du Alarm partie Ui
  */
 
